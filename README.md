@@ -1,4 +1,7 @@
-### Hi there 👋
+# Olá, visitante! :wave::nerd_face: Tudo bem com você?
+### Me chamo Jhansen Barreto, seja bem vindo(a) ao meu perfil!
+
+:construction: *Este perfil está em construção!* :construction:
 
 <!--
 **jhansenbarreto/jhansenbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
