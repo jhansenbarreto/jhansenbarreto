@@ -34,14 +34,15 @@ Nesse período eu fiz parte de uma equipe maravilhosa, onde compusemos o time *f
 <img width="180px" align="right" src="https://user-images.githubusercontent.com/13790608/214919033-1399ba95-ce08-41ab-ab26-d470310dc786.png">
 
 Além do aprendizado ***à vera*** no mercado, a gente precisa sempre estudar algo por fora né? Se manter afiado é preciso. :sunglasses: Dá uma olhadinha aí abaixo no que eu já tenho de conhecimento consolidado somando trabalho e estudo.
-
+          
 <p>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML"/>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS"/>
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring"/>
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT"/>
+ <img width="50px" src="https://user-images.githubusercontent.com/13790608/232335460-02cd5501-e28b-4eae-bedc-fcca96f6e837.png" title="GitHub"/>
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML"/>
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS"/>
 </p>
 
 ## Atualmente estou buscando... :question:
